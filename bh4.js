@@ -1,6 +1,6 @@
 /*
 关键数据
-https://litebhapi.belugabh.com/personal_center/user_equity_status_list url script-response-body Hb.js
+https://litebhapi.belugabh.com/personal_center/user_equity_status_list url script-response-body bh4.js
 hostname：litebhapi.belugabh.com
 
 
